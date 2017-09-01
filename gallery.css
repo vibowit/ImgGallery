@@ -1,0 +1,25 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    /*font-weight: 400;*/
+}
+
+.container {
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+
+.img-thumbnail {
+    margin-bottom: 10px;
+}
+
+.jumbotron {
+    color: #2c3e50;
+    /*background: no-repeat url("img/das-sasha-24277.jpg");*/
+    /*background-size: 150%;*/
+    /*background-size: contain;*/
+    /*background-position: 30% 75%;*/
+}
+
+.navbar-inverse {
+    background: #2c3e50;
+}
